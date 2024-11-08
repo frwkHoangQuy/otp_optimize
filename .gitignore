@@ -1,0 +1,5 @@
+config.ini
+
+scanTiep.xlsx
+*.xlsx
+session_cookies.json
